@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "id": "e70d",
+      "name": "David",
+      "lastName": "Diaz",
+      "email": "david123col@hotmail.com",
+      "telephone": "3117672673",
+      "company": "Google",
+      "rol": "Dev",
+      "state": false
+    }
+  ]
+}
